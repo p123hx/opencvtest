@@ -1,0 +1,3 @@
+/home/puhongxi/opencvtest/CMakeFiles/rebuild_cache.dir
+/home/puhongxi/opencvtest/CMakeFiles/untitled.dir
+/home/puhongxi/opencvtest/CMakeFiles/edit_cache.dir
